@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Saiteja Konam
-<div align="center">
+<div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=saitejakonam.saitejakonam&"  />
 </div>
 I'm an undergraduate AI and ML student at CBIT, Hyderabad, passionate about:
