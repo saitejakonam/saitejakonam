@@ -1,5 +1,7 @@
 ## Hi there 👋 I'm Saiteja Konam
-
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=saitejakonam.saitejakonam&"  />
+</div>
 I'm an undergraduate AI and ML student at CBIT, Hyderabad, passionate about:
 - Data-driven problem solving
 - Software development
@@ -26,6 +28,7 @@ With a strong foundation in:
 
 
 
+
 ### 📫 How to Reach Me
 <p align="left">
   <a href="mailto:saitejakonam123@gmail.com">
@@ -36,5 +39,14 @@ With a strong foundation in:
   </a>
 
 </p>
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=saitejakonam&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
 
 
